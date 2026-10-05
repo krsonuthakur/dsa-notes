@@ -12,3 +12,5 @@ class Solution {
         return new int[]{};
     }
 }
+
+// as a review, check the element first before putting in the map, if elements are empty, it will break
