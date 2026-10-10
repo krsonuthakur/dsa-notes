@@ -1,7 +1,10 @@
  - [x] 5 Oct Mon 
- - [ ] 6 Oct Tue
- - [ ] 7 Oct Wed
+ - [x] 6 Oct Tue
+ - [x] 7 Oct Wed
  - [ ] 8 Oct Thu
  - [ ] 9 Oct Fri
- - [ ] 10 Oct Sat
+ - [x] 10 Oct Sat
  - [ ] 11 Oct Sun
+ - [ ] 12 Oct mon
+ - [ ] 13 Oct Tue
+ - [ ] 14 Oct Wed
